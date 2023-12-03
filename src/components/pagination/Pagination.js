@@ -1,3 +1,4 @@
+// css file
 import styles from "./pagination.module.css";
 
 export const Pagination = () => {

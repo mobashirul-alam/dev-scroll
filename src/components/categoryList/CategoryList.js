@@ -1,3 +1,4 @@
+// css file
 import styles from "./categoryList.module.css";
 
 export const CategoryList = () => {

@@ -1,3 +1,4 @@
+// css file
 import styles from "./featured.module.css";
 
 export const Featured = () => {
