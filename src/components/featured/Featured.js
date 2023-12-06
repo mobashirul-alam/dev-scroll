@@ -13,7 +13,13 @@ export const Featured = () => {
             </h1>
             <div className={styles.post}>
                 <div className={styles.imgContainer}>
-                    <Image src={"/p1.jpeg"} alt="" width={688} height={500} />
+                    <Image
+                        src={"/p1.jpeg"}
+                        alt=""
+                        width={688}
+                        height={500}
+                        style={{ borderRadius: "10px" }}
+                    />
                 </div>
                 <div className={styles.textContainer}>
                     <h1 className={styles.postTitle}>
