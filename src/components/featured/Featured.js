@@ -8,8 +8,10 @@ export const Featured = () => {
     return (
         <div className={styles.container}>
             <h1 className={styles.title}>
-                <b>Hey, Dev scroll is here!</b> Discover infinite stories and
-                creative ideas.
+                <span className={styles.boldTitle}>
+                    Hey, Dev scroll is here!
+                </span>{" "}
+                Discover infinite stories and creative ideas.
             </h1>
             <div className={styles.post}>
                 <div className={styles.imgContainer}>

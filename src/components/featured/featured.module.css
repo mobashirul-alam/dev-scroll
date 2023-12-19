@@ -8,6 +8,10 @@
     font-weight: 300;
 }
 
+.boldTitle {
+    font-weight: 600;
+}
+
 .post {
     margin-top: 60px;
     display: flex;
